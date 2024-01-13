@@ -22,7 +22,7 @@ Welcome to the Bubble Hit Game! A simple and fun game where you have to hit the 
 
 ## Acknowledgments
 
-A special acknowledgment to [Sheriyan's Coding School](link-to-sheriyan) for providing invaluable guidance and resources. Their tutorials have played a crucial role in enhancing coding skills and shaping the success of this game.
+A special acknowledgment to Sheriyan's Coding School for providing invaluable guidance and resources. Their tutorials have played a crucial role in enhancing coding skills and shaping the success of this game.
 
 ## Project Structure
 
